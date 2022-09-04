@@ -1,6 +1,8 @@
 # Aurae
 
-Aurae is a new distributed runtime that is designed to simplify a modern Kubernetes-like distributed system.
+Aurae is a new distributed runtime that is designed to simplify a modern Kubernetes-like distributed system. 
+
+Think of it like an opinionated kubelet, systemd, and control plane alternative all wrapped up into a single system written in Rust.
 
 ### The Organization 
 
