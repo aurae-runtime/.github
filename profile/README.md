@@ -2,6 +2,8 @@
 
 Aurae is a new distributed runtime that is designed to simplify a modern Kubernetes-like distributed system.
 
+### The Organization 
+
 This is the GitHub organization that holds the various projects that help bring Aurae to life. The primary 2 projects worth noting are:
 
  1. The [aurae](https://github.com/aurae-runtime/aurae) shell and frontend componenent which is what application owners will interact with.
@@ -17,11 +19,11 @@ Currently the Aurae project is being developed in a hybrid public/private space.
 
 Current access to the source code is by invitation only directly from [Kris Nóva](https://github.com/kris-nova). 
 
-If you would like to be involved (and currently I am letting quite a few in) please read the following.
+If you would like an invitation (and currently I am letting quite a few in) please perform the following:
 
  1. You must legally agree and sign the CLA and NDA found [here](https://github.com/aurae-runtime/authz)
- 2. You must join the [discord](https://discord.gg/JqvvtUZkMD) server and introduce yourself in the `#aurae` channel.
- 3. You must agree to follow the rules of the project.
+ 2. You must join the [discord](https://discord.gg/JqvvtUZkMD) server and introduce yourself in the `#aurae` channel and ask me for an invitation.
+ 3. You must agree to following the rules of the project.
 
 ### Immediate Rules of Engagement
 
