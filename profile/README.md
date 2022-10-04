@@ -12,6 +12,10 @@ A turing complete scripting language for platform infrastructure engineers.
 
 The core daemon that runs as pid 1 and exposes opionated APIs designed to unlock higher order systems.
 
+### Aurae Standard Library
+
+The Aurae systems spec, core APIs, and language specification. 
+
 
 
 
